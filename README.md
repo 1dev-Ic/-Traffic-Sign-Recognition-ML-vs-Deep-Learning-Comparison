@@ -34,10 +34,8 @@ Istanbul Okan University
 - **Name:** German Traffic Sign Recognition Benchmark (GTSRB)
 - **Classes:** 43 traffic sign categories
 - **Samples used:** 39,209 images
-- **Source:** http://benchmark.ini.rub.de/gtsrb/
+- **Source:** https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
 
-### 📚 Citation (APA 7th)
-> Stallkamp, J., Schlipsing, M., Salmen, J., & Igel, C. (2012). *The German Traffic Sign Recognition Benchmark (GTSRB)* [https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign]. Ruhr University Bochum. https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
 ---
 
 ## ⚙️ Technologies Used
