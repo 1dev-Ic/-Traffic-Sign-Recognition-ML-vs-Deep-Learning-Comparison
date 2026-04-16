@@ -37,8 +37,7 @@ Istanbul Okan University
 - **Source:** http://benchmark.ini.rub.de/gtsrb/
 
 ### 📚 Citation (APA 7th)
-> Stallkamp, J., Schlipsing, M., Salmen, J., & Igel, C. (2012). *The German Traffic Sign Recognition Benchmark (GTSRB)* [Data set]. Ruhr University Bochum. http://benchmark.ini.rub.de/gtsrb/
-
+> Stallkamp, J., Schlipsing, M., Salmen, J., & Igel, C. (2012). *The German Traffic Sign Recognition Benchmark (GTSRB)* [https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign]. Ruhr University Bochum. https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
 ---
 
 ## ⚙️ Technologies Used
